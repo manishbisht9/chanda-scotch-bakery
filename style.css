@@ -15,16 +15,15 @@ body {
     align-items: center;
 }
 
-#home.hero h1 {
-    font-family: 'Playfair Display', serif;
-    font-size: 4.5rem;
+#home.hero h3 {
+    font-size: 3.2rem;
     font-weight: 800;
     text-shadow: 2px 4px 10px rgba(0, 0, 0, 0.3);
     letter-spacing: -1px;
 }
 
 #home.hero p {
-    font-size: 1.4rem;
+    font-size: 1.3rem;
     max-width: 700px;
     margin: 0 auto 30px;
     text-shadow: 1px 2px 5px rgba(0, 0, 0, 0.5);
@@ -38,7 +37,7 @@ body {
 }
 
 .navbar-brand {
-    font-size: 1.8rem;
+    font-size: 1.5rem;
     letter-spacing: 0.5px;
 }
 
@@ -47,8 +46,8 @@ body {
 }
 
 .nav-link {
-    font-size: 1.2rem;
-    margin-left: 20px;
+    font-size: 1.1rem;
+    margin-left: 10px;
     color: #555 !important;
     font-weight: 500;
     transition: color 0.3s ease;
@@ -68,12 +67,12 @@ body {
 
 .about-text h2 {
     font-family: 'Playfair Display', serif;
-    font-size: 2.2rem;
+    font-size: 2rem;
 }
 
 .about-text p {
-    font-size: 1.2rem;
-    line-height: 1.8;
+    font-size: 1.1rem;
+    line-height: 1.4;
     color: #555;
 }
 
@@ -99,7 +98,7 @@ body {
 }
 
 #menu p {
-    font-size: 1.4rem;
+    font-size: 1.2rem;
 }
 
 /* Buttons */
@@ -175,8 +174,8 @@ body {
 /* WhatsApp Floating Button */
 .whatsapp-float {
     position: fixed;
-    width: 60px;
-    height: 60px;
+    width: 50px;
+    height: 50px;
     bottom: 30px;
     right: 30px;
     background-color: #25d366;
